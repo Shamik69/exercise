@@ -1,0 +1,8 @@
+{
+    "version": "2.0.0",
+    "command": "start chrome",    
+    "windows": {
+        "command": "start chrome"
+    },
+    "args": ["test.html"]
+}
